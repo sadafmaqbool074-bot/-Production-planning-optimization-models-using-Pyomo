@@ -1,9 +1,5 @@
 # Production Planning & Optimization with Pyomo
 
-[![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](https://www.python.org/)
-[![Pyomo](https://img.shields.io/badge/Optimization-Pyomo-green)](http://www.pyomo.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen)]()
 
 A collection of **production planning and resource optimization models** built with [Pyomo](http://www.pyomo.org/), covering multiple real-world problem types — product mix optimization, fixed setup costs, and resource-constrained production analysis — each solved with its own dataset.
 
