@@ -20,7 +20,7 @@ Each project uses a structured optimization model, a dedicated dataset, and an a
 
 ## 🛠️ Technologies & Tools
 
-* **Python 3.14+**
+* **Python 3.13**
 * **Pyomo** — mathematical optimization modeling
 * **Pandas** — data processing and input management
 * **Matplotlib** — optimization results visualization
